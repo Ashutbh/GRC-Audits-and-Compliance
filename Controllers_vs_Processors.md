@@ -19,4 +19,3 @@
 * **Compliance Burden:** Processors do not have the same sweeping obligations as controllers under the UK GDPR and do not have to pay a data protection fee. 
 * **Direct Obligations:** If you are a processor, you still have a specific number of direct obligations of your own under the law.
 * **Regulatory Action:** Both the ICO and individuals may take direct action against a processor regarding a breach of those specific obligations.
-* 
