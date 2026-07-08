@@ -22,4 +22,3 @@ Article 5(1) requires that personal data shall be:
 
 ### Article 5(2): Accountability
 *   **(g) Accountability:** The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1.
-*   
