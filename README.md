@@ -5,8 +5,8 @@ This repository serves as my professional portfolio for my journey toward becomi
 
 ## Current Projects
 - [Controllers vs Processors (UK GDPR)](Controllers_vs_Processors.md)
+- [The 7 Principles of the UK GDPR](7_Principles_of_GDPR.md)
 
 ## Roadmap
-- [ ] Research and document 7 Principles of GDPR
 - [ ] Analyze Data Protection Impact Assessments (DPIA)
 - [ ] Build audit checklist templates
